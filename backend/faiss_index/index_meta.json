@@ -1,0 +1,6 @@
+{
+  "index_name": "aurorastay-policy-index",
+  "vector_dimensions": 384,
+  "total_fragments": 131,
+  "status": "DEPLOYED_CLOUD_INDEX"
+}
